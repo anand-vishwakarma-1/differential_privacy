@@ -1,7 +1,7 @@
 # Differential Privacy: The right tool against training-data Reconstruction Attack
 
 ## Trained models and extraction
-You can download all the 6 trained models and extraction models of each for this Google Drive [Link](https://drive.google.com/drive/folders/1-FMv-48Vj7sN6ceRz3ymyCePhgpyua6L?usp=sharing).
+You can download all the 6 trained models and extraction models of each from this Google Drive [Link](https://drive.google.com/drive/folders/1-FMv-48Vj7sN6ceRz3ymyCePhgpyua6L?usp=sharing).
 
 ## BibTeX
 
